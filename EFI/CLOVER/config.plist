@@ -96,12 +96,10 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
-		<key>Arguments</key>
-		<string>debug=0x100 keepsyms=1</string>
 		<key>DefaultVolume</key>
-		<string>PotatoHD</string>
+		<string>MacintoshHD</string>
 		<key>Timeout</key>
-		<integer>1</integer>
+		<integer>3</integer>
 	</dict>
 	<key>Devices</key>
 	<dict>
@@ -202,7 +200,7 @@
 		<string>0x67</string>
 		<key>ROM</key>
 		<data>
-		84sBnJLT
+		hNP6tEvV
 		</data>
 	</dict>
 	<key>SMBIOS</key>
@@ -218,7 +216,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02433130CDG2Y7FB</string>
+		<string>C025059024NG2Y7UE</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -248,16 +246,16 @@
 		<key>ProductName</key>
 		<string>iMac15,1</string>
 		<key>SerialNumber</key>
-		<string>C02N7CY7FY10</string>
+		<string>C02P67Y1FY10</string>
 		<key>SmUUID</key>
-		<string>2708CFDC-7521-46D2-B34F-549C7C9C92D3</string>
+		<string>90FF6918-D162-4C15-8D4C-475BF2B44BD5</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>17941CB9-71A7-4E2A-98F6-34455E7006F1</string>
+		<string>544D3B0D-B931-429F-A206-88F57C94754C</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
