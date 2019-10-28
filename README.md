@@ -1,4 +1,4 @@
-# OptiPlex - 9020M - Catalina
+# OptiPlex - 9020 - Catalina
 
 
 Tested on：
