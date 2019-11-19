@@ -32,3 +32,4 @@ FileVault加密不可打开，开启会导致无法启动。
 **NEVER** enable FileVault on a hackintosh. 
 
 
+**其他机型 黑苹果Hackintosh资源 [请访问链接](https://github.com/daliansky/Hackintosh) **
